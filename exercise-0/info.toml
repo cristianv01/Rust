@@ -1,0 +1,224 @@
+format_version = 1
+welcome_message = """Welcome to Exercise 0 of CS3984 - Computer Systems in Rust."""
+final_message = """Good job!"""
+
+[[exercises]]
+name = "intro1"
+dir = "00_intro"
+test = false
+hint = """Consult the TA if you need a hint."""
+skip_check_unsolved = true
+
+[[exercises]]
+name = "intro2"
+dir = "00_intro"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "variables1"
+dir = "01_variables"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "variables2"
+dir = "01_variables"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "variables3"
+dir = "01_variables"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "variables4"
+dir = "01_variables"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "variables5"
+dir = "01_variables"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "variables6"
+dir = "01_variables"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "functions1"
+dir = "02_functions"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "functions2"
+dir = "02_functions"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "functions3"
+dir = "02_functions"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "functions4"
+dir = "02_functions"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "functions5"
+dir = "02_functions"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "if1"
+dir = "03_if"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "if2"
+dir = "03_if"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "if3"
+dir = "03_if"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "primitive_types1"
+dir = "04_primitive_types"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "primitive_types2"
+dir = "04_primitive_types"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "primitive_types3"
+dir = "04_primitive_types"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "primitive_types4"
+dir = "04_primitive_types"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "primitive_types5"
+dir = "04_primitive_types"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "primitive_types6"
+dir = "04_primitive_types"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "vecs1"
+dir = "05_vecs"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "vecs2"
+dir = "05_vecs"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "move_semantics1"
+dir = "06_move_semantics"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "move_semantics2"
+dir = "06_move_semantics"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "move_semantics3"
+dir = "06_move_semantics"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "move_semantics4"
+dir = "06_move_semantics"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "move_semantics5"
+dir = "06_move_semantics"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "structs1"
+dir = "07_structs"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "structs2"
+dir = "07_structs"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "structs3"
+dir = "07_structs"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "enums1"
+dir = "08_enums"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "enums2"
+dir = "08_enums"
+test = false
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "enums3"
+dir = "08_enums"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "q0_point"
+dir = "99_shapes"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "q1_circle"
+dir = "99_shapes"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "q2_rectangle"
+dir = "99_shapes"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "q3_overlap"
+dir = "99_shapes"
+hint = """Consult the TA if you need a hint."""
+
+[[exercises]]
+name = "q4_shape"
+dir = "99_shapes"
+hint = """Consult the TA if you need a hint."""
